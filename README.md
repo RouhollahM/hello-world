@@ -1,4 +1,4 @@
 # hello-world
 training
 
-Hi, I am learning GitHup !!
+Hi, I am learning GitHub !!
